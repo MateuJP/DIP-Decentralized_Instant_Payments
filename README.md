@@ -4,11 +4,11 @@ Aquí está el repositorio de GitHub para el proyecto Descentralized_Instant_Pay
 
 # Ficheros
 
-Actualmente, en el repositorio se encuentran 3 carpetas :
+Actualmente, en el repositorio se encuentran 3 carpetas:
 
-> Token_Version
-> Crypto_Version
-> Documentation
+- Token_Version
+- Crypto_Version
+- Documentation
 
 ## Token_Version
 
