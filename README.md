@@ -18,6 +18,6 @@ En esta carpeta se encuentran los contratos inteligentes, que permiten los pagos
 
 En esta carpeta se encuentran los contratos inteligentes, que permiten los pagos usando la estable con de Tether desplegada sobre la red de polygon.
 
-## Documents
+## White Paper
 
-En esta carpeta, se encuentra la documentación asociada al proyecto, donde se explica el protocolo DIP, así como las funciones de cada uno de los contratos inteligentes que gobiernan la red
+El documento "DIP: Una solución descentralizada para la gestión de proyectos y pagos.pdf" explica los fundamentos del proyecto DIP, los contratos que gobiernan el sistema, así como una descripción detallada del protocolo DIP, encargado de custodiar los fondos que los clientes depositan en los contratos.
